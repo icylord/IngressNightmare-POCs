@@ -7,6 +7,7 @@
 - CVE-2025-1974: https://github.com/kubernetes/kubernetes/issues/131009
 
 Note: Created these POCs before Wiz released the technical information. This may become out of date.
+These are also not full exploits, rather they are POCs to understand the exploit flow and vulnerability prerequisites
 
 ## More Info
 https://blog.shakeylabs.com/ingressnightmare-patch-analysis/
